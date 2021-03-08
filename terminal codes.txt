@@ -1,0 +1,12 @@
+npm init
+npm install express
+
+//Serverin çalışması için
+npm run start
+
+// Serveri kapatmadan değişiklikleri görmek için (D development aşaması anlamında) 
+npm install -D nodemon
+
+
+
+npm run dev
